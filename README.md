@@ -33,3 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0046-permutations) |
+# Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0046-permutations) |
