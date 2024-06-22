@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0049-group-anagrams) |
 # Simulation
 |  |
 | ------- |
@@ -34,7 +35,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0049-group-anagrams) |
 # Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0046-permutations) |
+# Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0049-group-anagrams) |
+# Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0049-group-anagrams) |
