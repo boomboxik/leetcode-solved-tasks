@@ -48,3 +48,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0049-group-anagrams) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0044-wildcard-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0044-wildcard-matching) |
+<!---LeetCode Topics End-->
