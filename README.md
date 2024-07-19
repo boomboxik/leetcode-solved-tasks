@@ -66,4 +66,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0044-wildcard-matching) |
+## Array
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0047-permutations-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
