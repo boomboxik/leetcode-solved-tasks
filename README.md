@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -74,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0047-permutations-ii) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
