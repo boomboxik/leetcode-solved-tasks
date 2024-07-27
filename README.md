@@ -71,10 +71,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0051-n-queens) |
 ## Backtracking
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0051-n-queens) |
 ## Math
 |  |
 | ------- |
