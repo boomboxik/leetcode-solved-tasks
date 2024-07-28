@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0047-permutations-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,4 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
