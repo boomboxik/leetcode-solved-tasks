@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0059-spiral-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -96,10 +97,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0059-spiral-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
