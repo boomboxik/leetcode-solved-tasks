@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0054-spiral-matrix) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0060-permutation-sequence) |
 ## Divide and Conquer
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
