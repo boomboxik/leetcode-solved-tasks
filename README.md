@@ -60,10 +60,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0044-wildcard-matching](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0055-jump-game) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0059-spiral-matrix-ii) |
 ## Backtracking
