@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0066-plus-one) |
 ## Backtracking
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0066-plus-one) |
 ## Divide and Conquer
 |  |
 | ------- |
