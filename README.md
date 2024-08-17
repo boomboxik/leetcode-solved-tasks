@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0044-wildcard-matching](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0065-valid-number) |
 ## Dynamic Programming
 |  |
 | ------- |
