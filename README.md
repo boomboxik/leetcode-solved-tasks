@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0070-climbing-stairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,4 +153,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
