@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0065-valid-number](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0072-edit-distance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0072-edit-distance) |
 ## Greedy
 |  |
 | ------- |
