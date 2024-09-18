@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0075-sort-colors) |
 ## Backtracking
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0075-sort-colors) |
 ## Linked List
 |  |
 | ------- |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0075-sort-colors) |
 ## Combinatorics
 |  |
 | ------- |
