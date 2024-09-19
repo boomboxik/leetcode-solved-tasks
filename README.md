@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0076-minimum-window-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,4 +171,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0071-simplify-path) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
