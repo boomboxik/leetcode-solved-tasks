@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0078-subsets) |
 ## Math
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
