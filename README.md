@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0052-n-queens-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -131,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/boomboxik/leetcode-solved-tasks/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
